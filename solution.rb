@@ -1,4 +1,4 @@
-re_relative "module2_assignment"
+require_relative "module2_assignment"
 
 # This script provides a sample execution of the Solution class
 # that is consistent with what the rspec evaluation will perform.

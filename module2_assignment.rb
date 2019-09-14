@@ -23,7 +23,7 @@
   #Implement the print_highest_word_frequency_across_lines() method to
   #* print the values of objects in highest_count_words_across_lines in the specified format
 
-~
+
 #Implement all parts of this assignment within (this) module2_assignment2.rb file
 
 #Implement a class called LineAnalyzer.
